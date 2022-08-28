@@ -1,0 +1,16 @@
+{
+    "name": "oktan13/php-di.loc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Ivanov"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^6.4"
+    }
+}
